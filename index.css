@@ -40,44 +40,45 @@ body{
     text-align: center;
     border-radius: 10px;
     max-width: 100rem;
+    padding: 9px;
 }
 
 .authors-avatar{
-    margin-top: 33px;
+    padding-top: 30px;
     margin-bottom: 5px;
 }
 h1{
     font-weight: 500;
     color:  hsl(0, 0%, 100%);
-    font-size: 19px;
+    font-size: 25px;
 }
 
 .authors-location{
  color: hsl(75, 94%, 57%);
  font-weight: 600;
- font-size: 11px;   
- margin-top: -4px;
+ font-size: 14px;   
+ margin-top: -7px;
 }
 
 .authors-about{
     color:  hsl(0, 0%, 100%);
-    font-weight: 200;
-    font-size: 12px;
-    margin-top: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 25px;
+    margin-bottom: 10px;
 }
 
 ul li{
     border: 1px solid  hsl(0, 0%, 20%);
     color: hsl(0, 0%, 100%);
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 600;
     background-color: hsl(0, 0%, 20%);
     border-radius: 5px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-bottom: 12px;
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 95px;
+    padding-right: 95px;
     text-align: center;
     margin-right: 32px;
     margin-left: -10px;
