@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/vvvasavii/social-links-profile]
+- Live Site URL: [https://social-links-profile-eight-nu.vercel.app/]
 
 ## My process
 
@@ -44,9 +44,8 @@ In short,this project helped me grasp how to actually use styles and put my newl
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
+- Website - [https://social-links-profile-eight-nu.vercel.app/]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/vvvasavii]
 ## Acknowledgments
 Having no mentors in the cs field, I completed this project majorly by myself. Whenever i was stuck on a certain piece of code I would search the internet for solutions to questions posted by people who were also stuck similarly before me.
 
